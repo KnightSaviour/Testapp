@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Testapp</string>
+    <string name="logo_on_splash">logo on splash</string>
+    <string name="test_app">Test App</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="wlcm">wlcm</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="log_in">Log In</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="register_using_your_email">Register using your Email</string>
+    <string name="your_email">Your Email</string>
+    <string name="choose_a_password">Choose a password</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="create_account">Create Account</string>
+    <string name="skip">Skip</string>
+    <string name="rahul">Rahul Vatsa</string>
+    <string name="downloads">Downloads</string>
+    <string name="questions">Questions</string>
+    <string name="tests">Tests</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="notifications">Notifications</string>
+    <string name="logout">Logout</string>
+    <string name="about_us">About Us</string>
+    <string name="others">Others</string>
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recent_tab">Recent Tab</string>
+    <string name="feeds_tab">Feeds Tab</string>
+    <string name="home">Home</string>
+    <string name="topics">Topics</string>
+    <string name="Topics">Topics</string>
+</resources>
