@@ -6,3 +6,5 @@ Under construction, but you can see codes for activity, fragments and layouts fo
  We are also working on another Web-app that will serve as the admin panel for the user app.
  
  All Database, Authentication and Hosting Services are done using Firebase as Backend.
+ 
+ Contributors - Mukund Kumar (github.com/singhMukund), Pandey Rahul Kumar (github.com/KnightSaviour)
